@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/ice-tea.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+              <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -144,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501804931660</updated>
-      <workItem from="1501804932816" duration="3831000" />
+      <workItem from="1501804932816" duration="4081000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from second instance">
       <created>1501805337876</created>
@@ -164,7 +164,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3831000" />
+    <option name="totallyTimeSpent" value="4081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="208" width="1400" height="813" extended-state="0" />
@@ -274,7 +274,7 @@
     <entry file="file://$PROJECT_DIR$/ice-tea.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
           <folding />
         </state>
       </provider>
