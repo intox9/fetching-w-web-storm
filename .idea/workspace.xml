@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9a0e94fa-721c-41c1-b0bf-21b87ac1a825" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grapes.html" afterPath="$PROJECT_DIR$/grapes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ice-tea.html" afterPath="$PROJECT_DIR$/ice-tea.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ice-tea.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ice-tea.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ice-tea.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <state relative-caret-position="40">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grapes.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="grapes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grapes.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="40">
@@ -55,9 +55,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ice-tea.html" />
         <option value="$PROJECT_DIR$/apples.html" />
         <option value="$PROJECT_DIR$/grapes.html" />
+        <option value="$PROJECT_DIR$/ice-tea.html" />
       </list>
     </option>
   </component>
@@ -75,8 +75,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="352" />
-    <option name="y" value="200" />
+    <option name="x" value="34" />
+    <option name="y" value="208" />
     <option name="width" value="1400" />
     <option name="height" value="813" />
   </component>
@@ -144,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1501804931660</updated>
-      <workItem from="1501804932816" duration="3707000" />
+      <workItem from="1501804932816" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="First commit from second instance">
       <created>1501805337876</created>
@@ -164,10 +164,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3707000" />
+    <option name="totallyTimeSpent" value="3831000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="352" y="200" width="1400" height="813" extended-state="0" />
+    <frame x="34" y="208" width="1400" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -255,14 +255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ice-tea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apples.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -275,6 +267,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ice-tea.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
